@@ -10,7 +10,8 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 <a href="#the-header">Link to Header</a>
 I'll meet you over there, can't wait to get started!
 
-[Link to Header](#the-header)
+[[1]](#the-header)
+[[2]](#smallest)
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
 
@@ -21,7 +22,7 @@ http://markdown-syntax.de/Syntax-GFM/Tabellen/
 | Inhalt | Inhalt | Inhalt |
 
 
-
+Text{#the-header2}
 Spalte 1 | Spalte 2   | Spalte 3
 -------- | ---------- | ----------
 *Inhalt* | **Inhalt** | ~~Inhalt~~
@@ -70,5 +71,11 @@ Inhalt   | Inhalt     | Inhalt
 
 
 ## The Header
+
+### The Smaller
+
+#### the evem Smaller
+
+##### smallest
 
 text
