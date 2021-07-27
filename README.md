@@ -10,8 +10,8 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 <a href="#the-header">Link to Header</a>
 I'll meet you over there, can't wait to get started!
 
-[[1]](#the-header)
-[[2]](#smallest)
+[[1] Header Big](#the-header)
+[[2] Kleiner Text mit Anchor](#smallest)
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
 
